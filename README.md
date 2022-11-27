@@ -2,6 +2,8 @@
 
 DCC Accessory Decoder to drive 4 servo plus 4 relais for frog polarization
 
+![image1](https://github.com/M5Ross/AccDec_4Servos_4Relais/blob/main/doc/IMG_20190709_185539.jpg)
+
 Originally derived from an example of library NmraDcc.
 
 Library required:
@@ -20,6 +22,8 @@ Features:
 - Sigle address mode (continuos address for each output) or multiple address mode (each output has it own address).
 
 Designed to be configured with the custom PC tool [DecoderConfigurator], or in standardize way via CV.
+
+![image2](https://github.com/M5Ross/AccDec_4Servos_4Relais/blob/main/doc/IMG_20190709_185539A.png)
 
 [NmraDcc]: https://github.com/mrrwa/NmraDcc
 [ConfCVlib]: https://github.com/M5Ross/ConfCVlib
